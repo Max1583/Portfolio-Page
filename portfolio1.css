@@ -182,13 +182,6 @@ opacity: 0.8;
 
 
 
-
-
-
-
-
-
-
 @media screen and (max-width: 1000px) {
     html{
         width: 100%;
@@ -199,8 +192,8 @@ opacity: 0.8;
     }
 
     #logo img{
-        height: 70px;
-        margin-left: 180px;
+        height: 100px;
+        margin-left: 110px;
 
     }
 
@@ -208,7 +201,7 @@ opacity: 0.8;
       margin: auto 50px 5px auto;
     }   
     #navbar li,a{ 
-        font-size: 12px;
+        font-size: 10px;
         margin:2px 5px 0px 25px ;  
     margin-left: 3px;
     padding: 0px;
